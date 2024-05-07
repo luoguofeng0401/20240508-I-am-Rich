@@ -1,4 +1,4 @@
 # 20240508-I-am-Rich
 
 
-![Demo](Demo.png width="50%" height="50%")
+([Demo.png](https://github.com/luoguofeng0401/20240508-I-am-Rich/blob/main/Demo.png?raw=true)
